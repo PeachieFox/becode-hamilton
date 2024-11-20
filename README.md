@@ -10,17 +10,17 @@
 <li>Cooking</li>
 
 
-<procedure title="three things I like the most in this universe">
-<step>3d sculpture</step>
-<step>Write screenplays and novels</step>
-<step>Create video games</step>
-</procedure>
+## three things I like the most in this universe
+<li>3d sculpture</li>
+<li>Write screenplays and novels</li>
+<li>Create video games</li>
 
-<procedure title="The objectives I want to achieve as a developer during Becode">
-<step>becoming independent</step>
-<step>Learning several frameworks</step>
-<step>working on great projects</step>
-</procedure>
+
+## The objectives I want to achieve as a developer during Becode
+<li>becoming independent</li>
+<li>Learning several frameworks</li>
+<li>working on great projects</li>
+
 
 ## The fears I might have
 
