@@ -25,6 +25,10 @@
 <li>working on great projects</li>
 </ul>
 
+## Manu's hack
+
+<b>Do you see my change ?</b>
+
 ## The fears I might have
 
 <p>Must have a high level of math to advance deeply in the code.</p>
