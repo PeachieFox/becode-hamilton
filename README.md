@@ -11,8 +11,6 @@
 <li>Cooking</li>
 </ul>
 
-## Changed in manuBranch
-
 ## three things I like the most in this universe
 <ul>
 <li>3d sculpture</li>
@@ -26,10 +24,6 @@
 <li>Learning several frameworks</li>
 <li>working on great projects</li>
 </ul>
-
-## Manu's hack
-
-<b>Do you see my change ?</b>
 
 ## The fears I might have
 
